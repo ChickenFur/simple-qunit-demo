@@ -1,5 +1,8 @@
 [![Build Status](https://secure.travis-ci.org/Krinkle/travis-ci-node-and-browser-qunit.png)](http://travis-ci.org/Krinkle/travis-ci-node-and-browser-qunit)
 
+Qunit test
+
+
 # Run QUnit tests in NodeJS + WebKit using Travis CI!
 
 This project is a little demonstration of how to approach continuous integration
